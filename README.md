@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio para henry course
+Repositorio de prueba del tema "creando repositorio" de Henry
